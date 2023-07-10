@@ -1,0 +1,75 @@
+/*
+Flaticon icon font: Flaticon
+Creation date: 01/12/2016 07:42
+*/
+
+@font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.eot");
+    src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/Flaticon.woff") format("woff"),
+        url("../fonts/Flaticon.ttf") format("truetype"),
+        url("../fonts/Flaticon.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: "Flaticon";
+        src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+    }
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+    font-family: Flaticon;
+    font-style: normal;
+
+}
+.flaticon-airplane-flight-in-circle-around-earth:before { content: "\f100"; }
+.flaticon-arrows:before { content: "\f101"; }
+.flaticon-bicycle:before { content: "\f102"; }
+.flaticon-bulleted-list:before { content: "\f103"; }
+.flaticon-cabin:before { content: "\f104"; }
+.flaticon-car:before { content: "\f105"; }
+.flaticon-care-about-water:before { content: "\f106"; }
+.flaticon-chinese-temple:before { content: "\f107"; }
+.flaticon-cocktail:before { content: "\f108"; }
+.flaticon-customer:before { content: "\f109"; }
+.flaticon-customer-service:before { content: "\f10a"; }
+.flaticon-dashboard:before { content: "\f10b"; }
+.flaticon-delivery-truck:before { content: "\f10c"; }
+.flaticon-dollar-coins:before { content: "\f10d"; }
+.flaticon-earth-globe:before { content: "\f10e"; }
+.flaticon-experiment-results:before { content: "\f10f"; }
+.flaticon-facebook:before { content: "\f110"; }
+.flaticon-flash:before { content: "\f111"; }
+.flaticon-front:before { content: "\f112"; }
+.flaticon-lemonade:before { content: "\f113"; }
+.flaticon-lodge:before { content: "\f114"; }
+.flaticon-mail:before { content: "\f115"; }
+.flaticon-map:before { content: "\f116"; }
+.flaticon-musseum:before { content: "\f117"; }
+.flaticon-night:before { content: "\f118"; }
+.flaticon-paper-plane:before { content: "\f119"; }
+.flaticon-party:before { content: "\f11a"; }
+.flaticon-people:before { content: "\f11b"; }
+.flaticon-pharaoh:before { content: "\f11c"; }
+.flaticon-photographer-with-cap-and-glasses:before { content: "\f11d"; }
+.flaticon-placeholder:before { content: "\f11e"; }
+.flaticon-rain:before { content: "\f11f"; }
+.flaticon-road-perspective-of-curves:before { content: "\f120"; }
+.flaticon-ruins:before { content: "\f121"; }
+.flaticon-ship:before { content: "\f122"; }
+.flaticon-sidebar:before { content: "\f123"; }
+.flaticon-smartphone:before { content: "\f124"; }
+.flaticon-social-media:before { content: "\f125"; }
+.flaticon-squares-gallery-grid-layout-interface-symbol:before { content: "\f126"; }
+.flaticon-summer:before { content: "\f127"; }
+.flaticon-swimmer:before { content: "\f128"; }
+.flaticon-tea:before { content: "\f129"; }
+.flaticon-television:before { content: "\f12a"; }
+.flaticon-tent:before { content: "\f12b"; }
+.flaticon-transport:before { content: "\f12c"; }
+.flaticon-twitter:before { content: "\f12d"; }
+.flaticon-weightlifting:before { content: "\f12e"; }
+.flaticon-wifi:before { content: "\f12f"; }
